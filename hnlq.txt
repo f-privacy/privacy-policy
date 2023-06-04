@@ -1,0 +1,9 @@
+HNLQ Moba Game Wallpaper Privacy
+
+This Privacy policy will notify that how we collect, use, share and disclose your information. By installing the apps on your device, entering into, connecting to, accessing and/or using the apps, you agree to this privacy policy and give an explicit and informed consent to the processing. If you do not agree to this privacy policy, please uninstall and do not use this apps.
+
+What information we use:
+WRITE_EXTERNAL_STORAGE: We use this permission for storage photos to user gallery
+
+Contact us:
+If you have any questions regarding privacy while using the Apps, please contact us via email at: flutter.100992@gmail.com
